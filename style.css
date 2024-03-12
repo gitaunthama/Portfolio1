@@ -1,0 +1,40 @@
+header {
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+    color:white ;
+  } 
+
+  nav {
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    color: white ;
+  } 
+  nav ul {
+    list-style-type: none ;
+    margin: 0;
+    padding: 2%;
+    text-align: center;
+    
+  }
+
+  nav li {
+    display: inline-block;
+    margin right: 20px;
+    text-align: center;
+    
+  }
+  body{
+     background-image: url(assets/images/background\ image.jpg);
+  }   
+                       
+footer {
+    background-color: blueviolet;
+    text-align: center;
+    color: white ;
+  }
+  
+    
+
+    
