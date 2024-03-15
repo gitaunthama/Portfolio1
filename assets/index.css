@@ -1,0 +1,41 @@
+body {
+    background-image: url( /assets/images/pngtree-flat-business-style-banner-picture-image_1020686.jpg);
+    background-repeat: repeat;
+    
+
+}
+.container {
+  height: 200px;
+  text-align: center;
+  position: sticky;
+  background-color:lightskyblue;
+  font-size: 50px;
+  opacity: 0.8;
+  font-weight: bolder;
+  color: aliceblue;
+
+  
+}
+img { 
+    height: 600px;
+    opacity: 0.7;
+    width:650px ;
+    float: right;
+}
+form {
+    text-align: center;
+    size: 300px
+}
+
+p  {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 70px;
+    font-weight: bolder;
+    color:blue;
+
+}
+
+

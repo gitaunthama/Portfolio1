@@ -1,40 +1,61 @@
 header {
-    background-color: blueviolet;
+    background-color:;
     padding: 20px;
-    text-align: center;
-    color:white ;
+    text-align:right;
+    color:saddlebrown; ;
+    position: relative;
+    border-color: 4px lightsalmon ;
+    font-size: 30px;
+    
   } 
 
   nav {
-    background-color: black;
+    background-color:saddlebrown;
     height: 50px;
     text-align: center;
-    color: white ;
+    color: mistyrose;
+    font-size: 30px;
   } 
-  nav ul {
-    list-style-type: none ;
-    margin: 0;
-    padding: 2%;
-    text-align: center;
-    
-  }
-
-  nav li {
-    display: inline-block;
-    margin right: 20px;
-    text-align: center;
-    
-  }
+  
+  
   body{
-     background-image: url(assets/images/background\ image.jpg);
+     background-image: url(assets/images/_.jpeg);
+     font-size: 25px;
+     
   }   
                        
 footer {
-    background-color: blueviolet;
     text-align: center;
-    color: white ;
+    color: saddlebrown ;
+    font-size: 25px;
   }
   
-    
-
-    
+  .heading {
+    width:600px;
+    height:300px;
+    text-align: center;
+    position: sticky;
+    margin-left: 1000px;
+    background-color:mistyrose;
+  }
+h2 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+h3 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+h4 {
+  font-size: 30px;
+  text-decoration: double underline;
+  color:saddlebrown;
+}
+footer {
+  background-color: mistyrose;
+  color:saddlebrown;
+  font-size: 20px;
+  height: 30px;
+}
